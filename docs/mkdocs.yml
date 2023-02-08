@@ -9,7 +9,12 @@ edit_uri: edit/master/docs/docs
 
 ### Build settings ###
 
-theme: readthedocs
+### theme: readthedocs
+theme:
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'lightblue'
 
 nav:
   - Home: index.md
