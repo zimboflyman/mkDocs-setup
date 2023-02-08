@@ -8,7 +8,7 @@ Use the MkDocs (_make docs_) tool to create build a docs site around markdown do
 Follow the tutorial to add an existing project or create a project from scratch. The result will look like this project.
 
 
-## Features
+## Features - EDITED SHANE
 > How to use this project
 
 - **Follow the tutorial instructions**
