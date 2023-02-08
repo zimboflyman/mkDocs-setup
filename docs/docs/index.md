@@ -1,4 +1,4 @@
-# MkDocs Quickstart
+# MkDocs Theme Test - Shane
 >  Started template for a MkDocs docs site on GH Pages - including CI 
 
 [![Repo stars](https://img.shields.io/github/stars/MichaelCurrin/mkdocs-quickstart?style=social)](https://github.com/MichaelCurrin/mkdocs-quickstart)
