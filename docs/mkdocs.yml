@@ -12,6 +12,7 @@ edit_uri: edit/master/docs/docs
 ### theme: readthedocs
 theme:
   name: 'material'
+  custom_dir: material/.overrides
 #  palette:
 #    primary: 'red'
 #    accent: 'lightblue'
@@ -33,7 +34,8 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
-
+  icon:
+    logo: logo
 nav:
   - Home: index.md
   - About MkDocs: about-mkdocs.md
