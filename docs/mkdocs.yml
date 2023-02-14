@@ -19,7 +19,6 @@ theme:
     
   palette:
     - scheme: default
-   #   primary: indigo
       primary: 'red'
       accent: indigo
       toggle:
@@ -35,9 +34,7 @@ theme:
     text: Roboto
     code: Roboto Mono
   favicon: assets/favicon.png
-#  icon:
-#    logo: logo
-   logo: assets/logo.png
+  logo: assets/logo.png
 nav:
   - Home: index.md
   - About MkDocs: about-mkdocs.md
