@@ -16,8 +16,7 @@ theme:
     primary: 'red'
     accent: 'lightblue'
     
-extra_css:
-    - extra.css
+
 nav:
   - Home: index.md
   - About MkDocs: about-mkdocs.md
@@ -28,3 +27,6 @@ nav:
       - Advanced: tutorial/advanced.md
       - Usage: tutorial/usage.md
       - Deploy: tutorial/deploy.md
+
+extra_css:
+    - extra.css
