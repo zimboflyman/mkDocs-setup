@@ -19,8 +19,8 @@ theme:
     
   palette:
     - scheme: default
-      primary: 'red'
-      accent: indigo
+      primary: teal
+      accent: orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
