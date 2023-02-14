@@ -12,7 +12,7 @@ edit_uri: edit/master/docs/docs
 ### theme: readthedocs
 theme:
   name: 'material'
-  custom_dir: material/.overrides
+#  custom_dir: material/.overrides
 #  palette:
 #    primary: 'red'
 #    accent: 'lightblue'
