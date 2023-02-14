@@ -12,10 +12,27 @@ edit_uri: edit/master/docs/docs
 ### theme: readthedocs
 theme:
   name: 'material'
-  palette:
-    primary: 'red'
-    accent: 'lightblue'
+#  palette:
+#    primary: 'red'
+#    accent: 'lightblue'
     
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  font:
+    text: Roboto
+    code: Roboto Mono
+  favicon: assets/favicon.png
 
 nav:
   - Home: index.md
