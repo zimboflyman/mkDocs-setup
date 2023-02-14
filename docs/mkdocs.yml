@@ -48,3 +48,4 @@ nav:
 
 extra_css:
     - extra.css
+    - stylesheets/extra.css
