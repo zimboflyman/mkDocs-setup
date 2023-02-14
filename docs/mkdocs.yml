@@ -15,7 +15,9 @@ theme:
   palette:
     primary: 'red'
     accent: 'lightblue'
-
+    
+extra_css:
+    - extra.css
 nav:
   - Home: index.md
   - About MkDocs: about-mkdocs.md
