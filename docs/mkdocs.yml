@@ -10,6 +10,10 @@ edit_uri: edit/master/docs/docs
 ### Build settings ###
 
 ### theme: readthedocs
+extra_css:
+    - extra.css
+    - stylesheets/extra.css
+    
 theme:
   name: 'material'
 #  custom_dir: material/.overrides
@@ -19,13 +23,13 @@ theme:
     
   palette:
     - scheme: default
-      primary: deep orange
+      primary: teal
       accent: orange
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
+      primary: purple
       accent: indigo
       toggle:
         icon: material/brightness-4
@@ -46,6 +50,4 @@ nav:
       - Usage: tutorial/usage.md
       - Deploy: tutorial/deploy.md
 
-extra_css:
-    - extra.css
-    - stylesheets/extra.css
+
