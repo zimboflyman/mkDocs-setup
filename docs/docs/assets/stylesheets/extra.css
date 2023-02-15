@@ -1,3 +1,11 @@
+:root > * {
+  --md-primary-fg-color: #EB5822;
+  --md-primary-fg-color--light: #EB5822;
+  --md-primary-fg-color--dark: #fb005f;
+  --md-accent-fg-color: #a11242;
+  --md-header-bg-color: #EB5822;
+}
+
 h1 {
-  color: red;
+  color: pink;
 }

@@ -47,4 +47,15 @@ nav:
 
 extra_css:
     - stylesheets/extra.css
-
+extra:
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: https://github.com
+      name: vuquangtrong
+    - icon: fontawesome/brands/facebook-f
+      link: https://facebook.com
+      name: trongvq
+    - icon: fontawesome/brands/linkedin-in
+      link: https://www.linkedin.com/
+      name: vqtrong
+  generator: false # hide the line "Made with Material for MkDocs"
