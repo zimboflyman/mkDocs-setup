@@ -3,3 +3,11 @@
   --md-primary-fg-color--light: #cbdc38;
   --md-primary-fg-color--dark:  #4051b5;
 }
+
+.md-sidebar--primary .md-sidebar__scrollwrap {
+    border-right: 1px solid black;
+}
+
+.md-sidebar--secondary .md-sidebar__scrollwrap {
+    border-left: 1px solid black;
+}
