@@ -8,11 +8,6 @@ repo_url: https://github.com/zimboflyman/mkDocs-setup
 edit_uri: edit/master/docs/docs
 
 ### Build settings ###
-
-### theme: readthedocs
-extra_css:
-    - extra.css
-    - stylesheets/extra.css
     
 theme:
   name: 'material'
@@ -50,4 +45,6 @@ nav:
       - Usage: tutorial/usage.md
       - Deploy: tutorial/deploy.md
 
+extra_css:
+    - stylesheets/extra.css
 
