@@ -4,6 +4,10 @@
   --md-primary-fg-color--dark:  #4051b5;
 }
 
+h1 {
+  color: red;
+}
+
 .md-sidebar--primary .md-sidebar__scrollwrap {
     border-right: 1px solid black;
 }
