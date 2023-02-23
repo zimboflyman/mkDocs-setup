@@ -38,6 +38,7 @@ theme:
 nav:
   - Home: index.md
   - About MkDocs: about-mkdocs.md
+  - About: introduction.md
   - Tutorial:
       - TL;DR: tutorial/tldr.md
       - Installation: tutorial/installation.md
