@@ -36,28 +36,28 @@ theme:
   favicon: assets/favicon.png
   logo: assets/logo.png
 nav:
-  - About: introduction.md
-  - QuickStart:
-      - About: quickstart.md
-      - Installation: installation.md
-      - Configuration: treefmt-configuration.md
-  - Usage: usage.md
-  - Formatters: 
-      - About: index-formatters.md
-      - Formatter Specification: formatters-spec.md
-      - Known Formatters: formatters.md
-  - FAQ: faq.md
-  - Contributing: contributing.md
+  - Home: index.md
+  - About MkDocs: about-mkdocs.md
+  - Tutorial:
+      - TL;DR: tutorial/tldr.md
+      - Installation: tutorial/installation.md
+      - Set up project: tutorial/setup-project.md
+      - Advanced: tutorial/advanced.md
+      - Usage: tutorial/usage.md
+      - Deploy: tutorial/deploy.md
 
-  # - Home: index.md
-  # - About MkDocs: about-mkdocs.md
-  # - Tutorial:
-  #     - TL;DR: tutorial/tldr.md
-  #     - Installation: tutorial/installation.md
-  #     - Set up project: tutorial/setup-project.md
-  #     - Advanced: tutorial/advanced.md
-  #     - Usage: tutorial/usage.md
-  #     - Deploy: tutorial/deploy.md
+  # - About: introduction.md
+  # - QuickStart:
+  #     - About: quickstart.md
+  #     - Installation: installation.md
+  #     - Configuration: treefmt-configuration.md
+  # - Usage: usage.md
+  # - Formatters: 
+  #     - About: index-formatters.md
+  #     - Formatter Specification: formatters-spec.md
+  #     - Known Formatters: formatters.md
+  # - FAQ: faq.md
+  # - Contributing: contributing.md
 
 extra_css:
     - stylesheets/extra.css
