@@ -37,12 +37,17 @@ theme:
   logo: assets/logo.png
 nav:
   - Home: index.md
-  - About MkDocs: about-mkdocs.md
+  # - About MkDocs: about-mkdocs.md
   - About the project: introduction.md
   - QuickStart:
       - About: quickstart.md
       - Installation: installation.md
       - Configuration: treefmt-configuration.md
+  - Usage: usage.md
+  - Formatters: 
+      - About: index-formatters.md
+      - Formatter Specification: formatters-spec.md
+      - Known Formatters: formatters.md
   # - Tutorial:
   #     - TL;DR: tutorial/tldr.md
   #     - Installation: tutorial/installation.md
