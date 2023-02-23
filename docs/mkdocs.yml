@@ -1,6 +1,6 @@
 ### Site metadata ###
 
-site_name: MkDocs Quickstart
+site_name: Treefmt Quickstart
 site_description: Starter template for a MkDocs docs site on GH Pages - including CI
 site_url: https://zimboflyman.github.io/mkDocs-setup/docs/
 
@@ -36,7 +36,7 @@ theme:
   favicon: assets/favicon.png
   logo: assets/logo.png
 nav:
-  - Home: index.md
+  # - Home: index.md
   # - About MkDocs: about-mkdocs.md
   - About the project: introduction.md
   - QuickStart:
@@ -48,6 +48,8 @@ nav:
       - About: index-formatters.md
       - Formatter Specification: formatters-spec.md
       - Known Formatters: formatters.md
+  - FAQ: faq.md
+  - Contributing: contributing.md
   # - Tutorial:
   #     - TL;DR: tutorial/tldr.md
   #     - Installation: tutorial/installation.md
@@ -55,19 +57,6 @@ nav:
   #     - Advanced: tutorial/advanced.md
   #     - Usage: tutorial/usage.md
   #     - Deploy: tutorial/deploy.md
-
-  # - About: introduction.md
-  # - QuickStart:
-  #     - About: quickstart.md
-  #     - Installation: installation.md
-  #     - Configuration: treefmt-configuration.md
-  # - Usage: usage.md
-  # - Formatters: 
-  #     - About: index-formatters.md
-  #     - Formatter Specification: formatters-spec.md
-  #     - Known Formatters: formatters.md
-  # - FAQ: faq.md
-  # - Contributing: contributing.md
 
 extra_css:
     - stylesheets/extra.css
