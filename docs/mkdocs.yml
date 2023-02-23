@@ -41,13 +41,15 @@ nav:
   - About the project: introduction.md
   - QuickStart:
       - About: quickstart.md
-  - Tutorial:
-      - TL;DR: tutorial/tldr.md
-      - Installation: tutorial/installation.md
-      - Set up project: tutorial/setup-project.md
-      - Advanced: tutorial/advanced.md
-      - Usage: tutorial/usage.md
-      - Deploy: tutorial/deploy.md
+      - Installation: installation.md
+      - Configuration: treefmt-configuration.md
+  # - Tutorial:
+  #     - TL;DR: tutorial/tldr.md
+  #     - Installation: tutorial/installation.md
+  #     - Set up project: tutorial/setup-project.md
+  #     - Advanced: tutorial/advanced.md
+  #     - Usage: tutorial/usage.md
+  #     - Deploy: tutorial/deploy.md
 
   # - About: introduction.md
   # - QuickStart:
