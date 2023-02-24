@@ -31,8 +31,8 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   font:
-#     text: Roboto
-    text: Montserrat
+    text: Roboto
+#     text: Montserrat
     code: Roboto Mono
   favicon: assets/favicon.png
   logo: assets/logo.png
