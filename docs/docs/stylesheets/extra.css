@@ -26,7 +26,7 @@
   --md-primary-fg-color--dark: #D41F26;
   --md-accent-fg-color: #D41F26;
   --md-header-bg-color: #ffffff; */
-  --md-typeset-color: #2E303E;
+  --md-typeset-color: #E9EBFC !important;
   --md-text-font: Eurostile-Roman; 
 }
 
@@ -70,7 +70,7 @@
 .md-nav__title {
     color: #FFFFFF;
     background-color: #939598 !important;
-    font-size: 1.2rem;
+    font-size: 1.1rem;
     font-variant-caps: small-caps;
     font-weight: 500;
 }
