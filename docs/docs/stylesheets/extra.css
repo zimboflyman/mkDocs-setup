@@ -61,7 +61,8 @@
 /* --------------------------- Navigation --------------------------- */
 
 .md-nav__title {
-    color: #D41F26;
+    color: #FFFFFF;
+    background-color: #58595B !important;
     font-size: 1.4rem;
     font-variant-caps: small-caps;
     font-weight: 500;
@@ -75,6 +76,10 @@
 
 .md-sidebar--primary .md-sidebar__scrollwrap {
     border-right: 1px solid #939598;
+}
+
+.md-sidebar__inner {
+  padding-right: 0;
 }
 
 /* --------------------------- font stuff --------------------------- */
