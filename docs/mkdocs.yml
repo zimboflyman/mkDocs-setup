@@ -36,6 +36,14 @@ theme:
     code: Roboto Mono
   favicon: assets/favicon.png
   logo: assets/logo.png
+
+features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  - navigation.path
+  - navigation.top
+  
 nav:
   # - Home: index.md
   # - About MkDocs: about-mkdocs.md
@@ -65,11 +73,12 @@ extra:
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com
-      name: vuquangtrong
+      name: NumTide
     - icon: fontawesome/brands/facebook-f
       link: https://facebook.com
-      name: trongvq
+      name: NumTide
     - icon: fontawesome/brands/linkedin-in
       link: https://www.linkedin.com/
-      name: vqtrong
+      name: NumTide
+  copyright: Copyright &copy; 2016 - 2020 NumTide
   generator: false # hide the line "Made with Material for MkDocs"
