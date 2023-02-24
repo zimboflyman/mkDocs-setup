@@ -7,7 +7,6 @@
   --md-primary-fg-color--light: #cbdc38;
   --md-primary-fg-color--dark:  #4051b5;
   --md-text-font: Eurostile-Roman; 
-  /* font-family: Eurostile-Roman; */
 }
 
 [data-md-color-scheme="default"] {
@@ -18,19 +17,17 @@
   --md-header-bg-color: #ffffff;
   --md-footer-bg-color: #939598;
   --md-text-font: Eurostile-Roman; 
-  /* font-family: Eurostile-Roman; */
 }
 
 /* dark scheme as set in .yaml */
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: #D41F26;
+  --md-primary-fg-color: #F58220;
   /* --md-primary-fg-color--light: #EB5822;
   --md-primary-fg-color--dark: #D41F26;
   --md-accent-fg-color: #D41F26;
   --md-header-bg-color: #ffffff; */
-  --md-typeset-color: #e7eafa;
+  --md-typeset-color: #2E303E;
   --md-text-font: Eurostile-Roman; 
-  /* font-family: Eurostile-Roman; */
 }
 
 [data-md-color-scheme="shanesDarkTheme"] {
@@ -40,7 +37,6 @@
   --md-accent-fg-color: #D41F26;
   --md-header-bg-color: teal;
   --md-text-font: Eurostile-Roman; 
-  /* font-family: Eurostile-Roman; */
 }
 
 /* --------------------------- Header --------------------------- */
