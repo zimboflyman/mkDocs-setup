@@ -1,5 +1,5 @@
 # MkDocs Quickstart
-> Starter template for a MkDocs docs site on GH Pages - including CI
+> Template for a NumTide docs using MkDocs docs site on GH Pages - including CI
 
 [![CI status](https://github.com/MichaelCurrin/mkdocs-quickstart/workflows/Deploy%20Docs/badge.svg)](https://github.com/MichaelCurrin/mkdocs-quickstart/actions)
 [![GitHub tag](https://img.shields.io/github/tag/MichaelCurrin/mkdocs-quickstart?include_prereleases=&sort=semver)](https://github.com/MichaelCurrin/mkdocs-quickstart/releases/)
