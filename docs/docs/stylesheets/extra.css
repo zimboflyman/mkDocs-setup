@@ -41,16 +41,17 @@
 }
 
 .md-header__title {
-    color: #58595B;
+    color: #ffffff
+/*     color: #58595B; */
     font-size: 1.4rem;
     font-variant-caps: small-caps;
 }
 
 /* search input in header */
 .md-search__form {
-    background-color: #58595b;;
+/*     background-color: #58595b;; */
     height: 1.8rem;
-    border-radius: 24px;
+/*     border-radius: 24px; */
     margin: 9px 0;
 }
 
@@ -62,8 +63,8 @@
 
 .md-nav__title {
     color: #FFFFFF;
-    background-color: #58595B !important;
-    font-size: 1.4rem;
+    background-color: #939598 !important;
+    font-size: 1.2rem;
     font-variant-caps: small-caps;
     font-weight: 500;
 }
