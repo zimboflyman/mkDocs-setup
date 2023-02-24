@@ -1,8 +1,13 @@
+@font-face { font-family: Eurostile-Roman; 
+  src: url('../assets/fonts/Eurostile-Roman.ttf'); } 
+
 :root > *  {
   /* !important works here! */
   /* --md-primary-fg-color:        #cbdc38 !important; */
   --md-primary-fg-color--light: #cbdc38;
   --md-primary-fg-color--dark:  #4051b5;
+  --md-text-font: Eurostile-Roman; 
+  /* font-family: Eurostile-Roman; */
 }
 
 [data-md-color-scheme="default"] {
@@ -12,6 +17,8 @@
   --md-accent-fg-color: #D41F26;
   --md-header-bg-color: #ffffff;
   --md-footer-bg-color: #939598;
+  --md-text-font: Eurostile-Roman; 
+  /* font-family: Eurostile-Roman; */
 }
 
 /* dark scheme as set in .yaml */
@@ -22,6 +29,8 @@
   --md-accent-fg-color: #D41F26;
   --md-header-bg-color: #ffffff; */
   --md-typeset-color: #e7eafa;
+  --md-text-font: Eurostile-Roman; 
+  /* font-family: Eurostile-Roman; */
 }
 
 [data-md-color-scheme="shanesDarkTheme"] {
@@ -30,7 +39,8 @@
   --md-primary-fg-color--dark: #D41F26;
   --md-accent-fg-color: #D41F26;
   --md-header-bg-color: teal;
-  
+  --md-text-font: Eurostile-Roman; 
+  /* font-family: Eurostile-Roman; */
 }
 
 /* search input in header */
