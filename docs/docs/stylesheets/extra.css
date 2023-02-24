@@ -41,7 +41,7 @@
 }
 
 .md-header__title {
-    color: #ffffff
+    color: #ffffff;
 /*     color: #58595B; */
     font-size: 1.4rem;
     font-variant-caps: small-caps;
@@ -80,7 +80,7 @@
 }
 
 .md-sidebar__inner {
-  padding-right: 0;
+  padding-right: 0 !important;
 }
 
 /* --------------------------- font stuff --------------------------- */
