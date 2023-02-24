@@ -50,7 +50,6 @@
     color: #ffffff;
 /*     color: #58595B; */
     font-size: 1.4rem;
-    font-variant-caps: small-caps;
 }
 
 /* search input in header */
@@ -97,13 +96,11 @@
     line-height: 1.3;
     margin: 0 0 1.25em;
     font-weight: 500;
-    font-variant-caps: small-caps;
 }
 
 .md-typeset h2 {
     color: #F58220;;
 /*   color: #58595B; */
-    font-variant-caps: petite-caps;
     font-weight: 500;
     line-height: 1.3;
     margin: 0 0 1.25em */
