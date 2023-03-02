@@ -12,9 +12,6 @@ edit_uri: edit/master/docs/docs
 theme:
   name: 'material'
 #  custom_dir: material/.overrides
-#  palette:
-#    primary: 'red'
-#    accent: 'lightblue'
     
   palette:
     - scheme: default
@@ -59,12 +56,7 @@ nav:
   # - Home: index.md
   # - About MkDocs: about-mkdocs.md
   # - Tutorial:
-  #     - TL;DR: tutorial/tldr.md
   #     - Installation: tutorial/installation.md
-  #     - Set up project: tutorial/setup-project.md
-  #     - Advanced: tutorial/advanced.md
-  #     - Usage: tutorial/usage.md
-  #     - Deploy: tutorial/deploy.md
 
 extra_css:
     - stylesheets/extra.css
