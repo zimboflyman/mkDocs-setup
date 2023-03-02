@@ -40,12 +40,9 @@ theme:
   features:
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.path
     - navigation.top
   
 nav:
-  # - Home: index.md
-  # - About MkDocs: about-mkdocs.md
   - About the project: introduction.md
   - QuickStart:
       - About: quickstart.md
@@ -58,6 +55,9 @@ nav:
       - Known Formatters: formatters.md
   - FAQ: faq.md
   - Contributing: contributing.md
+  
+  # - Home: index.md
+  # - About MkDocs: about-mkdocs.md
   # - Tutorial:
   #     - TL;DR: tutorial/tldr.md
   #     - Installation: tutorial/installation.md
@@ -70,14 +70,13 @@ extra_css:
     - stylesheets/extra.css
 extra:
   social:
-    - icon: fontawesome/brands/github-alt
-      link: https://github.com
-      name: NumTide
-    - icon: fontawesome/brands/facebook-f
-      link: https://facebook.com
-      name: NumTide
-    - icon: fontawesome/brands/linkedin-in
-      link: https://www.linkedin.com/
-      name: NumTide
-  copyright: Copyright &copy; 2016 - 2020 NumTide
+    - icon: fontawesome/brands/github
+      link: https://github.com/numtide
+      name: NumTide on Github
+    - icon: fontawesome/brands/twitter
+      link: https://twitter.com/numtide
+      name: NumTide on Twitter
   generator: false # hide the line "Made with Material for MkDocs"
+      
+copyright: Copyright &copy; 2016 - 2020 NumTide
+  
