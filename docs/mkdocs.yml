@@ -4,16 +4,13 @@ site_name: Treefmt Quickstart
 site_description: Starter template for a MkDocs docs site on GH Pages - including CI
 site_url: https://zimboflyman.github.io/mkDocs-setup/docs/
 
-#repo_url: https://github.com/zimboflyman/mkDocs-setup
-repo_url: https://github.com/squidfunk/mkdocs-material
+repo_url: https://github.com/zimboflyman/mkDocs-setup
 edit_uri: edit/master/docs/docs
 
 ### Build settings ###
     
 theme:
-  name: null
-  custom_dir: material
-  # name: 'material'
+  name: 'material'
 ##  custom_dir: material/.overrides
     
   palette:
