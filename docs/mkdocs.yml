@@ -10,8 +10,10 @@ edit_uri: edit/master/docs/docs
 ### Build settings ###
     
 theme:
-  name: 'material'
-#  custom_dir: material/.overrides
+  name: null
+  custom_dir: https://github.com/squidfunk/mkdocs-material/tree/master/material
+  # name: 'material'
+##  custom_dir: material/.overrides
     
   palette:
     - scheme: default
